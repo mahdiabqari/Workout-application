@@ -40,14 +40,7 @@ The design of FitBoost is based on principles of **motivation**, **engagement**,
 
 ---
 
-## **⚙️ Installation & Setup**
 
-Follow these simple steps to get started with FitBoost:
-
-### **Clone the repository:**
-```bash
-git clone https://github.com/username/fitboost.git
-cd fitboost
----
 Created By ReactNative
 MahdiAbqari
+
