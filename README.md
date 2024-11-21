@@ -19,25 +19,6 @@ Welcome to **FitBoost**, the ultimate mobile application designed to help you ge
 
 The design of FitBoost is based on principles of **motivation**, **engagement**, and **clarity**. Each visual element, from the gradients to the typography, is carefully crafted to invoke a sense of urgency and inspiration—perfect for any fitness enthusiast. 
 
-### **Color Psychology:**
-- **Vibrant Blues**: To instill trust, confidence, and energy.
-- **Dynamic Greens**: To represent growth, health, and freshness.
-- **Orange Accents**: For enthusiasm and motivation.
-
----
-
-## **📱 Screenshots**
-
-### Main Screen
-- An engaging dashboard with quick access to workouts, goals, and progress.
-
-![Main Screen](https://placekitten.com/800/600)
-
-### Exercise Card
-- A visually motivating exercise card that helps you keep track of your activities with personalized visual elements.
-
-![Exercise Card](https://placekitten.com/800/600)
-
 ---
 
 
